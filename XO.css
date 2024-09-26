@@ -1,0 +1,43 @@
+
+body{
+    background-size: cover;
+    background-color: rgb(252, 242, 211);
+}
+
+
+table {
+    border-collapse:collapse;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+button {
+    size: 5px;
+    text-align: center;
+}
+
+table, th, td {
+    border:5px solid rgb(255, 0, 106);
+    text-align: center;
+}
+
+
+td {
+    height: 130px;
+    width: 130px;
+    text-align:left;
+    vertical-align:middle; 
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+#nizachon{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 45px;
+}
